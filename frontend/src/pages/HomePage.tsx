@@ -1,4 +1,3 @@
-import React from 'react';
 import LandingPage from "../assets/landing.png";
 import appDownloadImage from "../assets/appDownload.png";
 
